@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak",
+            "title": "Zelenskyy makes heartfelt call for Ukraine's EU membership; Von der Leyen announces new sanctions on Russian propagandists - CNBC",
+            "description": "The Ukrainian leader addressed the European Parliament in his second known overseas trip since Russia invaded his country in February last year.",
+            "url": "https://www.cnbc.com/2023/02/09/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107191786-1675948215297-gettyimages-1246943857-AFP_338V334.jpeg?v=1675948344&w=1920&h=1080",
+            "publishedAt": "2023-02-09T16:42:00Z",
+            "content": "This content was produced in Russia, where the law restricts coverage of Russian military operations in Ukraine.\r\nMOSCOW Russian consumer demand contracted at its fastest pace in seven years in 2022 … [+1141 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Adela Suliman",
+            "title": "Elon Musk’s SpaceX says it didn't intend Starlink to be used for war - The Washington Post",
+            "description": "Gwynne Shotwell, SpaceX’s chief operating officer, said the company's Starlink satellite internet service for Ukraine was “never intended to be weaponized.”",
+            "url": "https://www.washingtonpost.com/world/2023/02/09/starlink-restricts-internet-drones-ukraine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-09-2023/t_4b44594710ea4a479b3598e04496969b_name_W3G5ZMM7QMHFGN2NPYLXVTNLKU.jpg&w=1440",
+            "publishedAt": "2023-02-09T16:18:35Z",
+            "content": "Comment on this story\r\nElon Musks SpaceX company has accused the Ukrainian military of using its Starlink internet service to power drones in its ongoing conflict with Russia and says it has taken st… [+3731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Turkey earthquake: Anger as buildings meant to withstand tremors crumbled - BBC",
+            "description": "Recently built properties advertised as earthquake-proof were among collapsed buildings in Turkey.",
+            "url": "https://www.bbc.com/news/64568826",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10F3D/production/_128573496_composite-002.jpg",
+            "publishedAt": "2023-02-09T16:01:41Z",
+            "content": "The sight of newly constructed apartments collapsing in the earthquakes that hit Turkey has sparked anger. The BBC examined three new buildings, turned to rubble, to find out what they reveal about b… [+6874 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon, USA TODAY",
+            "title": "Turkey earthquake live updates: UN aid reaches Syria, over 19,300 dead - USA TODAY",
+            "description": "The international effort to provide food and shelter to victims of the earthquake that rocked Turkey and Syria intensified Thursday. Live updates.",
+            "url": "https://www.usatoday.com/story/news/world/2023/02/09/turkey-earthquake-live-updates-death-toll/11218360002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/09/USAT/5e36056a-0f0a-46c7-a5a4-5008dc7ff4fb-AFP_AFP_338V6EK.jpg?auto=webp&crop=5567,3132,x0,y566&format=pjpg&width=1200",
+            "publishedAt": "2023-02-09T15:30:46Z",
+            "content": "The international effort to provide food and shelter to victims of the killer earthquake that rocked Turkey and Syria three days ago intensified Thursday as emergency personnel rushed tents and equip… [+5145 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Hansler, Kylie Atwood, Manu Raju, Jeremy Herb",
+            "title": "Chinese spy balloon contained technology to monitor communication signals, US says - CNN",
+            "description": "The Biden administration has determined that the suspected Chinese surveillance balloon that traversed the United States last week was operating with electronic surveillance technology capable of monitoring US communications, according to a senior State Depar…",
+            "url": "https://www.cnn.com/2023/02/09/politics/spy-balloon-technology/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230207102801-01-spy-balloon-recovery.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-09T15:15:00Z",
+            "content": "The Biden administration has determined that the suspected Chinese surveillance balloon that traversed the United States last week was operating with electronic surveillance technology capable of mon… [+6164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Nets didn't have to move Kevin Durant, THEY CHOSE TO! - Stephen A. | Get Up - ESPN",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH3QUi2JTzko",
+            "urlToImage": null,
+            "publishedAt": "2023-02-09T15:07:32Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Charna Flam",
+            "title": "‘Air’ Trailer: Ben Affleck and Matt Damon Reunite and Recreate Nike’s Mission to Land Michael Jordan - Variety",
+            "description": "“There’s nothing cool about Nike,” Marlon Wayans says as George Raveling in the trailer for Ben Affleck and Matt Damon’s new movie “Air.” And while that might ha…",
+            "url": "https://variety.com/2023/film/news/air-trailer-ben-affleck-matt-damon-nike-michael-jordan-1235517021/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-09-at-10.01.48-AM.png?w=1000&h=563&crop=1",
+            "publishedAt": "2023-02-09T15:00:00Z",
+            "content": "“There’s nothing cool about Nike,” Marlon Wayans says as George Raveling in the trailer for Ben Affleck and Matt Damon’s new movie “Air.” And while that might have been the case in 1984, everything c… [+1810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "See how Rick Scott responded after Biden attacked his plan in speech - CNN",
+            "description": "Senator Rick Scott (R-FL) talks with CNN's Kaitlan Collins on the ongoing partisan battle over funding Medicare and Social Security following President Biden...",
+            "url": "https://www.youtube.com/watch?v=azgRU5FyccY",
+            "urlToImage": "https://i.ytimg.com/vi/azgRU5FyccY/maxresdefault.jpg",
+            "publishedAt": "2023-02-09T14:38:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Republican-Led U.S. House Panel Probes Twitter Block Of Hunter Biden Story | English News LIVE - CNN-News18",
+            "description": "Republican-Led U.S. House Panel Probes Twitter Block Of Hunter Biden Story | English News LIVE Republicans in the U.S. House of Representatives sought to del...",
+            "url": "https://www.youtube.com/watch?v=tc_7z6Pjizs",
+            "urlToImage": "https://i.ytimg.com/vi/tc_7z6Pjizs/maxresdefault_live.jpg",
+            "publishedAt": "2023-02-09T14:30:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Spencer Kimball",
+            "title": "Biden proposal to cap all insulin prices at $35 a month has little chance of passing Congress - CNBC",
+            "description": "Senate Republicans killed a proposal last year to cap out-of-pocket costs at $35 for people with private insurance.",
+            "url": "https://www.cnbc.com/2023/02/09/biden-proposal-to-cap-all-insulin-prices-at-35-a-month-has-little-chance-of-passing-congress.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107191223-1675873742726-gettyimages-1246877500-State_of_the_Union.jpeg?v=1675952772&w=1920&h=1080",
+            "publishedAt": "2023-02-09T14:26:12Z",
+            "content": "President Joe Biden used the bully pulpit during the State of the Union address this week to call for a universal price cap on insulin for all diabetes patients but the proposal is very unlikely to p… [+5067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Samsung Galaxy S23 Ultra review - Engadget",
+            "description": "With the Galaxy S23 Ultra, Samsung is doubling down on speed and photography for its flagship phone. Thanks to the new Snapdragon 8 Gen 2 chip, performance i...",
+            "url": "https://www.youtube.com/watch?v=sY8epVWkg0E",
+            "urlToImage": "https://i.ytimg.com/vi/sY8epVWkg0E/maxresdefault.jpg",
+            "publishedAt": "2023-02-09T14:00:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Eve Chen, USA TODAY",
+            "title": "Chick-fil-A debuts new Cauliflower Sandwich. Here's where you can try it and what it tastes like. - USA TODAY",
+            "description": "We got to try Chick-fil-A's new Cauliflower Sandwich before its debut. Here's what it taste like and how to get one for yourself.",
+            "url": "https://www.usatoday.com/story/money/food/2023/02/09/chick-fil-a-cauliflower-sandwich-new/11205023002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/09/USAT/96e19a6f-e669-44e2-a193-5e022448ea6b-Chick-fil-A_Cauliflower_Sandwich_Test_Kitchen_10.jpg?auto=webp&crop=1599,899,x0,y197&format=pjpg&width=1200",
+            "publishedAt": "2023-02-09T14:00:24Z",
+            "content": "Chick-fil-A's newest sandwich looks just like its original, but it sure doesn't taste like it.\r\nOn Monday, the Atlanta-based restaurant chain will debut a new Cauliflower Sandwich in three different … [+6060 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Min Joo Kim",
+            "title": "North Korea's Kim Jong Un shows off ICBMs, nuclear weapons in parade - The Washington Post",
+            "description": "North Korean leader Kim Jong Un also spotlighted his tweenage daughter for the second time in as many days, at a huge military parade in the capital, Pyongyang.",
+            "url": "https://www.washingtonpost.com/world/2023/02/09/north-korea-military-parade-icbm/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-09-2023/t_0fc84b59be544f8f939a1c3d4c1362c3_name_ZWO4UWTQFLOIOLNE3QMDPQPHGQ.jpg&w=1440",
+            "publishedAt": "2023-02-09T13:36:00Z",
+            "content": "Comment on this story\r\nSEOUL North Korean leader Kim Jong Un has taken his beloved daughter to a huge military parade that, Pyongyang claims, showed off its most advanced weapons, including tactical … [+3375 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Nelson Aguilar",
+            "title": "Microsoft Goes After Google With AI-Boosted Search. Here's How to Try It for Yourself - CNET",
+            "description": "Microsoft's updated version of Bing uses AI to give you more comprehensive answers to your questions. Join the waitlist to try it out yourself.",
+            "url": "https://www.cnet.com/tech/computing/microsoft-goes-after-google-with-ai-boosted-search-heres-how-to-try-it-for-yourself/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/afd59f5abded47d34935013b6a8b77f983a43ec4/hub/2023/02/07/234a11e1-6dc2-46fc-ab89-2f99aa51b0f6/screenshot-2023-02-07-at-1-01-24-pm.png?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-09T13:30:02Z",
+            "content": "Microsoft's new Bing search engine, powered by the same OpenAI technology behind ChatGPT, is now available to use as a limited preview. Anyone can try out a few sample queries, available on the Bing … [+2904 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Russell Westbrook trade grades: Lakers, Timberwolves don't move needle much; Jazz come out big winner - CBS Sports",
+            "description": "Los Angeles also send one first-round pick to Utah in eight-player deal",
+            "url": "https://www.cbssports.com/nba/news/russell-westbrook-trade-grades-lakers-timberwolves-dont-move-needle-much-jazz-come-out-big-winner/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/09/65461799-c8c7-4980-88dc-9a36a568c498/thumbnail/1200x675/2453a6d75af268a6d1203a592acff693/westbrook-getty-4.png",
+            "publishedAt": "2023-02-09T13:26:00Z",
+            "content": "The Los Angeles Lakers, Minnesota Timberwolves and Utah Jazz are finalizing a three-team trade that would send Russell Westbrook and a top-four protected 2027 first-round pick to the Jazz, D'Angelo R… [+12584 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "Southwest executive tells Senate 'we messed up' in holiday travel chaos - CNBC",
+            "description": "Southwest apologized before the Senate panel for the mass cancellations over the year-end holidays.",
+            "url": "https://www.cnbc.com/2023/02/09/southwest-senate-hearing-holiday-meltdown.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107191987-1675959055137-gettyimages-1246953064-SENATE_AIRLINES.jpeg?v=1675960025&w=1920&h=1080",
+            "publishedAt": "2023-02-09T13:13:47Z",
+            "content": "Southwest Airlines Chief Operations Officer Andrew Watterson apologized before a Senate panel Thursday for the carrier's December meltdown that stranded thousands of passengers over the holidays. \r\nW… [+3192 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heat.com"
+            },
+            "author": "From NBA.com News Services",
+            "title": "2023 NBA trade deadline buzz: Feb. 9 edition - NBA.com",
+            "description": "The latest rumblings and reported deals as today's 3 p.m. ET trade deadline draws closer.",
+            "url": "https://www.nba.com/news/2023-nba-trade-deadline-buzz-feb-9",
+            "urlToImage": "https://cdn.nba.com/manage/2023/02/john-wall-looks-iso.jpg",
+            "publishedAt": "2023-02-09T12:57:00Z",
+            "content": "With Thursday afternoon's trade deadline quickly approaching, which Eastern Conference teams will prove to be the major players?\r\nAs we close in on the official trade deadline (Feb. 9, 3 p.m. ET), ke… [+2344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Emily Bary",
+            "title": "Disney is undergoing a 'drastic evolution' in streaming, and more changes could be afoot - MarketWatch",
+            "description": "Following a shift in Disney’s reporting structure, an analyst wonders if the company will sell a stake in ESPN",
+            "url": "https://www.marketwatch.com/story/disney-is-undergoing-a-drastic-evolution-in-streaming-and-more-changes-could-be-afoot-11675946342",
+            "urlToImage": "https://images.mktw.net/im-433370/social",
+            "publishedAt": "2023-02-09T12:38:00Z",
+            "content": "Efficiency themes have been winning the day on Wall Street, and Walt Disney Co. Chief Executive Bob Iger is garnering praise for bringing more discipline to the media giant. Iger, who came back to Di… [+4702 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Elon Musk's Neuralink may have illegally transported pathogens, animal advocates say - Reuters",
+            "description": "An animal-welfare organization said it plans to ask a U.S. government agency on Thursday to investigate Elon Musk's brain-implant company Neuralink over records it said show potentially illegal movement of hazardous pathogens.",
+            "url": "https://www.reuters.com/technology/elon-musks-neuralink-may-have-illegally-transported-pathogens-animal-advocates-2023-02-09/",
+            "urlToImage": "https://www.reuters.com/resizer/f1FSr8Y0iYeHFz37DFYw_TRBi8I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/53FRFFTRMBLEJDWD5WUAO5I36Y.jpg",
+            "publishedAt": "2023-02-09T12:31:00Z",
+            "content": "Feb 9 (Reuters) - An animal-welfare organization said it plans to ask a U.S. government agency on Thursday to investigate Elon Musk's brain-implant company Neuralink over records it said show potenti… [+4408 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Usf.edu"
+            },
+            "author": null,
+            "title": "NPR asks a senior Iranian official about protests and Iran's conservative dress code - WUSF Public Media",
+            "description": "All Things Considered co-host Mary Louise Kelly is reporting from Iran this week. Iran's Foreign Minister Hossein Amir-Abdollahian spoke to her in a wide-ranging interview.",
+            "url": "https://wusfnews.wusf.usf.edu/2023-02-09/npr-asks-a-senior-iranian-official-about-protests-and-irans-conservative-dress-code",
+            "urlToImage": null,
+            "publishedAt": "2023-02-09T12:24:00Z",
+            "content": "All Things Considered co-host Mary Louise Kelly is reporting from Iran this week. Iran's Foreign Minister Hossein Amir-Abdollahian spoke to her in a wide-ranging interview.\r\nCopyright 2023 NPR"
+        }
+    ]
+}
